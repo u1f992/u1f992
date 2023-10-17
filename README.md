@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=u1F992&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=U-1F992&layout=compact&langs_count=10)
